@@ -2,4 +2,4 @@
 Power BI,
 SQL,
 Python,
-ML,
+ML.
