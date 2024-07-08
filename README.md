@@ -1,5 +1,8 @@
 # Studying
-##Principais
+
+
+##Principais:
+
 Power BI,
 SQL,
 Python,
