@@ -1,5 +1,5 @@
 # Studying
-Power BI
-SQL 
-Python
-ML
+Power BI,
+SQL,
+Python,
+ML,
