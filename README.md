@@ -5,5 +5,4 @@
 
 Power BI,
 SQL,
-Python,
-ML.
+Python
